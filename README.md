@@ -13,6 +13,5 @@ I have a boundless enthusiasm for uncovering the intricate mechanics behind robu
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📫 Let's Connect
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)_ (tiwarianuj0707@gmail.com)
-
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarianuj0707@gmail.com)
 ---
