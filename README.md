@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Anuj Tiwari 👋
 
-<!--
-**Cottagecheesepopeye/cottagecheesepopeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science Engineering student at VIT Bhopal, passionate about building intelligent systems and exploring local AI tools and learning new things in general. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I have a boundless enthusiasm for uncovering the intricate mechanics behind robust software systems. I treat every line of Python, Java, and C++ as a thrilling opportunity to grow, channeling my relentless drive into experimenting and pushing the limits of my understanding. I approach every vast, complex system with the humble eagerness of a lifelong student determined to hone his craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![javascript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📫 Let's Connect
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)_ (tiwarianuj0707@gmail.com)
+
+---
